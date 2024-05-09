@@ -41,6 +41,10 @@ namespace Jocuri
             this.label10 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.label13 = new System.Windows.Forms.Label();
+            this.label14 = new System.Windows.Forms.Label();
+            this.label15 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -189,6 +193,52 @@ namespace Jocuri
             this.label12.TabIndex = 11;
             this.label12.Text = "A";
             // 
+            // textBox1
+            // 
+            this.textBox1.BackColor = System.Drawing.Color.White;
+            this.textBox1.Font = new System.Drawing.Font("Arial Rounded MT Bold", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.Location = new System.Drawing.Point(716, 111);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(45, 39);
+            this.textBox1.TabIndex = 12;
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.BackColor = System.Drawing.Color.Transparent;
+            this.label13.Font = new System.Drawing.Font("Arial Rounded MT Bold", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label13.ForeColor = System.Drawing.Color.White;
+            this.label13.Location = new System.Drawing.Point(434, 114);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(276, 32);
+            this.label13.TabIndex = 13;
+            this.label13.Text = "Introduceți o literă:";
+            // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.BackColor = System.Drawing.Color.Transparent;
+            this.label14.Font = new System.Drawing.Font("Arial Rounded MT Bold", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label14.ForeColor = System.Drawing.Color.White;
+            this.label14.Location = new System.Drawing.Point(16, 9);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(545, 28);
+            this.label14.TabIndex = 14;
+            this.label14.Text = "Spânzurătoarea! Vezi dacă poți ghici cuvântul.";
+            this.label14.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.BackColor = System.Drawing.Color.Transparent;
+            this.label15.Font = new System.Drawing.Font("Arial Rounded MT Bold", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label15.ForeColor = System.Drawing.Color.White;
+            this.label15.Location = new System.Drawing.Point(437, 200);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(208, 32);
+            this.label15.TabIndex = 15;
+            this.label15.Text = "Litere greșite:";
+            // 
             // Hangman
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -196,6 +246,10 @@ namespace Jocuri
             this.BackgroundImage = global::Jocuri.Properties.Resources.hangmanbackground;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(982, 553);
+            this.Controls.Add(this.label15);
+            this.Controls.Add(this.label14);
+            this.Controls.Add(this.label13);
+            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label12);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.label10);
@@ -231,5 +285,9 @@ namespace Jocuri
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Label label13;
+        private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.Label label15;
     }
 }
