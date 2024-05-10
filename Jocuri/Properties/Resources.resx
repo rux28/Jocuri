@@ -121,8 +121,8 @@
   <data name="Tic_tac_toe.svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Tic_tac_toe.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="games" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\games.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="xsio" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\xsio.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="tictactoe2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\tictactoe2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -133,13 +133,16 @@
   <data name="GuessTheNumber" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\GuessTheNumber.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="xsio" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\xsio.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="games" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\games.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="hangmanbackground" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\hangmanbackground.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ex" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ex.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GuessTheNumberBackground" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GuessTheNumberBackground.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

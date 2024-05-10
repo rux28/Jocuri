@@ -140,5 +140,8 @@
   <ItemGroup>
     <None Include="Resources\ex.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GuessTheNumberBackground.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -93,6 +93,16 @@ namespace Jocuri.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap GuessTheNumberBackground {
+            get {
+                object obj = ResourceManager.GetObject("GuessTheNumberBackground", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap hangman {
             get {
                 object obj = ResourceManager.GetObject("hangman", resourceCulture);
