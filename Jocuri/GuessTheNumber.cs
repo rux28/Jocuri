@@ -19,7 +19,7 @@ namespace Jocuri
             randomNumber = -1;
         }
 
-        void verify()
+        void binarySearch()
         {
             if (randomNumber == guessedNumber)
             {
@@ -60,13 +60,17 @@ namespace Jocuri
             randomNumber = rnd.Next(1, 101);
             MessageBox.Show("Calculatorul a generat un număr.");
             label3.Text = "Numere ghicite: ";
+            richTextBox1.Text = "";
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             bool ok = true;
-            if(randomNumber == -1)
+            if (randomNumber == -1)
+            {
                 MessageBox.Show("Nu ai generat un număr!");
+                richTextBox1.Text = "";
+            }
             else
             {
                 for (int i = 0; i < richTextBox1.Text.Length; i++)
@@ -79,7 +83,7 @@ namespace Jocuri
                     if (guessedNumber < 1 || guessedNumber > 100)
                         MessageBox.Show("Nu ai introdus un număr de la 1 la 100!");
                     else
-                        verify();
+                        binarySearch();
                 }
                 else
                 {

@@ -45,9 +45,9 @@ namespace Jocuri
             this.label1.Font = new System.Drawing.Font("Arial Rounded MT Bold", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(12, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(919, 28);
+            this.label1.Size = new System.Drawing.Size(924, 28);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Calculatorul se va gândi la un număr între 1 și 100, iar tu va trebui să îl ghice" +
+            this.label1.Text = "Calculatorul se va gândi la un număr de la 1 la 100, iar tu va trebui să îl ghice" +
     "ști!";
             // 
             // generateButton
