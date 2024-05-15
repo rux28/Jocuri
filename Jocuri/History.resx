@@ -117,4 +117,35 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>                                    Istoria jocurilor video: O călătorie prin timp și spațiu virtual 
+
+    Jocurile video au parcurs un drum lung de la simple experimente pe calculatoare masive la lumi virtuale uimitoare care ne țin cu ochii lipiți de ecrane. Hai să facem o incursiune rapidă prin istoria lor fascinantă:
+
+    Epoca pionierilor (anii '50-'60): 
+Totul a pornit pe niște calculatoare uriașe, inaccesibile omului de rând, dar care au pus bazele pentru o revoluție.
+Imaginați-vă jocuri simple ca Pong, jucate pe un osciloscop - rudimentar, dar distractiv pentru acea vreme! 
+
+    Ascensiunea consolelor (anii '70-'80):
+Au apărut consolele dedicate, aducând jocurile în casele oamenilor și făcându-le accesibile publicului larg.
+Atari 2600 cu jocurile sale legendare ca Pong și Space Invaders a stârnit o nebunie globală.
+Nintendo Entertainment System a adus personaje iconice ca Mario și Donkey Kong, popularizând jocurile video la nivel mondial.
+
+    Era computerelor personale (anii '80-'90):
+PC-urile au permis o explozie a creativității și complexității în jocuri.
+Doom a revoluționat genul FPS cu grafica sa 3D uimitoare și atmosfera horror captivantă.
+Half-Life a uimit cu povestea sa captivantă, designul de nivel impecabil și inteligența artificială avansată.
+Myst a creat o lume 3D pre-renderizată, cu o poveste enigmatică și o coloană sonoră atmosferică, devenind un joc legendar. 
+
+    Epoca 3D și online (anii '90-prezent):
+Grafica 3D a schimbat total jocurile, oferind o realitate virtuală tot mai detaliată și mai captivantă.
+Internetul a permis jocurile online, creând o conexiune globală între jucători.
+PlayStation a adus titluri revoluționare ca Crash Bandicoot și Metal Gear Solid.
+Nintendo 64 a introdus controlerul analogic și jocuri legendare ca Super Mario 64 și The Legend of Zelda: Ocarina of Time.
+Xbox a pus bazele jocurilor online pe consolă, cu titluri populare ca Halo și Forza Motorsport. 
+
+    Astăzi, jocurile video continuă să evolueze, devenind tot mai realiste, mai imersive și mai interactive. De la lumi fantastice deschise la realități virtuale uimitoare, posibilitățile sunt infinite. E o lume fascinantă care merită explorată!
+
+</value>
+  </data>
 </root>

@@ -103,6 +103,7 @@
     <EmbeddedResource Include="TicTacToe.resx">
       <DependentUpon>TicTacToe.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="Istoria Jocurilor.docx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

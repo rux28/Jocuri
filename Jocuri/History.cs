@@ -15,6 +15,17 @@ namespace Jocuri
         public History()
         {
             InitializeComponent();
+            
+        }
+
+        private void richTextBox1_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void History_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
