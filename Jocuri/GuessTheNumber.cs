@@ -25,6 +25,7 @@ namespace Jocuri
             {
                 MessageBox.Show("Ai ghicit! Numărul era " + randomNumber.ToString() + "!");
                 label3.Text = "Numere ghicite: ";
+                randomNumber = -1;
             }
             else if(randomNumber < guessedNumber)
             {
