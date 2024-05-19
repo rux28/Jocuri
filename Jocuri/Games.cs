@@ -40,5 +40,10 @@ namespace Jocuri
             var GuessTheNumberForm = new GuessTheNumber();
             GuessTheNumberForm.ShowDialog();
         }
+
+        private void Games_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -119,6 +119,7 @@ namespace Jocuri
             this.Name = "Games";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Games";
+            this.Load += new System.EventHandler(this.Games_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
